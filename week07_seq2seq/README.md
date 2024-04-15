@@ -10,7 +10,7 @@
 
 ## Practice
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_RL/blob/master/week07_seq2seq/practice_torch.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Pandnak/Practical_RL/blob/master/week07_seq2seq/practice_torch.ipynb)
 
 
 As usual, go to practice_{your framework}.ipynb above and follow instructions from there. [PyTorch](./practice_torch.ipynb), [Tensorflow](./practice_tf.ipynb)
